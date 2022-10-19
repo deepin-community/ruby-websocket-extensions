@@ -1,0 +1,34 @@
+ruby-websocket-extensions (0.1.5-1) unstable; urgency=medium
+
+  [ Hleb Valoshka ]
+  * Remove myself from uploaders
+
+  [ Utkarsh Gupta ]
+  * Add salsa-ci.yml
+
+  [ Debian Janitor ]
+  * Use secure copyright file specification URI.
+  * Use secure URI in debian/watch.
+  * Use secure URI in Homepage field.
+  * Bump debhelper from deprecated 9 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Update Vcs-* headers from URL redirect.
+  * Use canonical URL in Vcs-Git.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+
+  [ Cédric Boutillier ]
+  * [ci skip] Update team name
+
+  [ Pirate Praveen ]
+  * Bump Standards-Version to 4.5.0 (no changes needed)
+  * New upstream version 0.1.5 (Closes: #964274) (Fixes: CVE-2020-7663)
+  * Add myself to uploaders
+
+ -- Pirate Praveen <praveen@debian.org>  Thu, 03 Sep 2020 13:48:45 +0530
+
+ruby-websocket-extensions (0.1.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #816883)
+
+ -- Hleb Valoshka <375gnu@gmail.com>  Sun, 06 Mar 2016 11:46:31 +0300
